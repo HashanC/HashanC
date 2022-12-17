@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Hashan
+#### A passionate about machine learning and data analysis.
+![A passionate about machine learning and data analysis.](https://media.licdn.com/dms/image/D5616AQFCtw5_34oGHA/profile-displaybackgroundimage-shrink_350_1400/0/1671281683587?e=1676505600&v=beta&t=j_TXuBjr74FM31unmJJmGiR4ECvQ65UCcjMtn-ukmSY)
 
-<!--
-**HashanC/HashanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a very enthusiastic, open-minded, hardworking individual who likes to work with teams and individuals. I am an undergraduate with a passion for data engineering, machine learning, and other fields relevant to data science.
 
-Here are some ideas to get you started:
+Skills: Python / Java / SQL / NodeJS / ExpressJS / HTML / CSS / Data Warehousing / Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
